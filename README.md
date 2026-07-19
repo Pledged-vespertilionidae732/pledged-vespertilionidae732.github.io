@@ -1,4 +1,4 @@
-# Tabiya — Lichess Puzzle Explorer
+# Squarerb — Lichess Puzzle Explorer
 
 Browse, filter, and solve chess tactics puzzles from the Lichess puzzle
 database. Fully static — React frontend, no backend, deployable to GitHub
