@@ -1,0 +1,13 @@
+[
+  {
+    "id": "sample05",
+    "fen": "3k4/7p/1n6/3N4/8/8/8/3R2K1 b - - 0 1",
+    "moves": ["h7h6", "d5b6"],
+    "rating": 1600,
+    "popularity": 79,
+    "nbPlays": 4300,
+    "themes": ["discoveredAttack", "advantage", "short"],
+    "gameUrl": "https://lichess.org/training",
+    "openingTags": []
+  }
+]

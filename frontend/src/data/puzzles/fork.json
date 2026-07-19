@@ -1,0 +1,13 @@
+[
+  {
+    "id": "sample02",
+    "fen": "8/4k2p/1q6/8/8/2N5/8/7K b - - 0 1",
+    "moves": ["h7h6", "c3d5"],
+    "rating": 1150,
+    "popularity": 88,
+    "nbPlays": 8600,
+    "themes": ["fork", "knightEndgame", "short"],
+    "gameUrl": "https://lichess.org/training",
+    "openingTags": []
+  }
+]

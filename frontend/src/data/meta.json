@@ -1,0 +1,8 @@
+{
+  "themes": ["mateIn1", "backRankMate", "fork", "knightEndgame", "pin", "hangingPiece", "skewer", "rookEndgame", "discoveredAttack", "advantage", "short", "long"],
+  "shardThemes": ["mateIn1", "fork", "pin", "skewer", "discoveredAttack"],
+  "ratingRange": [900, 1600],
+  "totalPuzzles": 5,
+  "countsByShard": {"mateIn1": 1, "fork": 1, "pin": 1, "skewer": 1, "discoveredAttack": 1},
+  "note": "This is a small hand-built sample for local development. Run data-prep/build_dataset.py to generate the real dataset from the Lichess puzzle database."
+}
